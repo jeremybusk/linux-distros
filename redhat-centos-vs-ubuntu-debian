@@ -6,10 +6,11 @@ Redhat Pros
 - SELinux - Extremely powerful for security purposes. I used the precursor to this before NSA and Redhat got together to implement contexts in Redhat. Unfortunately this is often turned off by admins because they don't understand it or even the services they are running on the host.
 
 # Redhat Cons
--
+- IBM owns Redhat now. IBM has been really good at killing tech over the years and I don't see them changing anytime soon. I hope I'm wrong though.
 
 # Ubuntu Pros
 - It's cheaper - This might be a con though
+- It's not owned or managed by IBM. There has been a lot of development and inovation on Canaonical side and Debian in general.
 
 # Ubuntu Cons
 - It's colors are dull
