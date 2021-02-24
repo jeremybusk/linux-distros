@@ -1,0 +1,16 @@
+I went through the Ford vs Chevy on the playground in elementary school and now I have to relive it all over in Linux distro land.
+This is a place to point to and have a discussion of the pros and cons of both. Like most things it depends on your use case.
+
+Redhat Pros
+- This is a standard even though I can't see anywhere in corporate or local docs that this is the case. I even talked to the architect from coproate and he sent me the actual docs and they didn't mention it and he also said there was no standard.
+- SELinux - Extremely powerful for security purposes. I used the precursor to this before NSA and Redhat got together to implement contexts in Redhat. Unfortunately this is often turned off by admins because they don't understand it or even the services they are running on the host.
+
+# Redhat Cons
+-
+
+# Ubuntu Pros
+- It's cheaper - This might be a con though
+
+# Ubuntu Cons
+- It's colors are dull
+- It uses deb packages
